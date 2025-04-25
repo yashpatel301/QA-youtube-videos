@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain_groq
+langgraph
+pydantic
+python-dotenv
+streamlit
+youtube-transcript-api
+deep-translator
+langchain-text-splitters
+openai
+langchain-openai
+faiss-cpu
